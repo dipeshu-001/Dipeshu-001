@@ -5,6 +5,12 @@
 
 --><a href="https://imgbb.com/"><img src="https://i.ibb.co/VVjjJX2/thumb.gif" alt="thumb" border="0" /></a>
 
+### Hey I'm Toshiro 
+### Age 18
+### Live in Kolkata
+### Intrested in Web Developing And Ai developing ✌🏻💫
+
+### A machine never Stop 🚀
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=Toshiro223&label=Profile%20views&color=0e75b6&style=flat" alt="Toshiro223" /> </p>
 <p align="left"> <a href="https://github-profile-trophy.vercel.app/?username=ryo-ma&no-frame=true
 <p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=Toshiro223&show_icons=true&locale=en&layout=compact" alt="Toshiro223" /></p>
