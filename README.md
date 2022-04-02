@@ -1,4 +1,4 @@
-### Hi there 👋
+### 😒A noob coder Always in search of new things Basically weeb🚀
 
 <!--
 **Toshiro223/Toshiro223** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
