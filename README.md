@@ -11,4 +11,4 @@
 
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=gariox3d&show_icons=true&locale=en" alt="Toshiro223" /></p>
 
-<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=gariox3d&" alt="Toshiro223" /></p>
+<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=Toshiro223&" alt="Toshiro223" /></p>
