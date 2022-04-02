@@ -7,7 +7,7 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=Toshiro223&label=Profile%20views&color=0e75b6&style=flat" alt="Toshiro223" /> </p>
 <p align="left"> <a href="https://github-profile-trophy.vercel.app/?username=ryo-ma&no-frame=true
-<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=gariox3d&show_icons=true&locale=en&layout=compact" alt="Toshiro223" /></p>
+<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=Toshiro223&show_icons=true&locale=en&layout=compact" alt="Toshiro223" /></p>
 
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=Toshiro223&show_icons=true&locale=en" alt="Toshiro223" /></p>
 
