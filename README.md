@@ -20,6 +20,7 @@
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=Toshiro223&label=Profile%20views&color=0e75b6&style=flat" alt="Toshiro223"> </p>
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=Toshiro223" alt="Toshiro223" /></a> </p>
 <img src = "https://github-readme-stats.vercel.app/api?username=Toshiro223&show_icons=true&theme=radical&line_height=40&count_private=true&cache_seconds=1800&title_color=red&include_all_commits=true">
+
 [![GitHub Streak](https://github-readme-streak-stats.herokuapp.com?user=Toshiro223&theme=blueberry&hide_border=true&date_format=M%20j%5B%2C%20Y%5D)](https://git.io/streak-stats)
 
 
