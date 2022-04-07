@@ -1,4 +1,4 @@
-### 😒A noob coder Always in search of new things Basically weeb🚀
+### 😒𝐀 𝐍𝐨𝐨𝐛 𝐂𝐨𝐝𝐞𝐫 𝐀𝐥𝐰𝐚𝐲𝐬 𝐈𝐧 𝐒𝐞𝐚𝐫𝐜𝐡 𝐎𝐟 𝐍𝐞𝐰 𝐓𝐡𝐢𝐧𝐠𝐬 B𝐚𝐬𝐢𝐜𝐚𝐥𝐥𝐲 𝐖𝐞𝐞𝐛🚀
 
 
 <a href="https://imgbb.com/"><img src="https://i.ibb.co/Jq8xgRn/49af8e6f0863c14452ba96a3c26e717b.gif" alt="49af8e6f0863c14452ba96a3c26e717b" border="0" /></a>
