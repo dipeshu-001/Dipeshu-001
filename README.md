@@ -3,7 +3,7 @@
 <!--
 **Toshiro223/Toshiro223** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
---><a href="https://imgbb.com/"><img src="https://i.ibb.co/VVjjJX2/thumb.gif" alt="thumb" border="0" /></a>
+<a href="https://imgbb.com/"><img src="https://i.ibb.co/Jq8xgRn/49af8e6f0863c14452ba96a3c26e717b.gif" alt="49af8e6f0863c14452ba96a3c26e717b" border="0" /></a>
 
 ### Hey I'm Toshiro 
 ### Age 18
