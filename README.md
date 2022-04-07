@@ -2,6 +2,8 @@
 
 
 <a href="https://imgbb.com/"><img src="https://i.ibb.co/Jq8xgRn/49af8e6f0863c14452ba96a3c26e717b.gif" alt="49af8e6f0863c14452ba96a3c26e717b" border="0" /></a>
+<h1 align="center">ʜɪ 👋, ɪ'ᴍ Toshiro. ᴜsᴇʀɴᴀᴍᴇ- Toshiro223</h1>
+<h3 align="center">I am a noob coder. Learning javascript and Node js👀.</h3>
 
 - 💠 Name- **Toshiro Hitsugaya**
 
