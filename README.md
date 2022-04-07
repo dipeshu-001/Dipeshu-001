@@ -24,7 +24,7 @@
 
 [![GitHub Streak](https://github-readme-streak-stats.herokuapp.com?user=Toshiro223&theme=blueberry&hide_border=true&date_format=M%20j%5B%2C%20Y%5D)](https://git.io/streak-stats)
 
-## Follow me on `ヾ(・ω・)ノヾ(・ω・)ノ゛`
+## Follow me on `(❤️ω❤️)
 **Github** [<img src="https://img.icons8.com/nolan/240/github.png" alt='github' height='32'>](https://github.com/Toshiro223) | **Instagram** [<img src="https://img.icons8.com/nolan/240/instagram-new.png" alt='instagram' height='32'>](https://www.instagram.com/itz_toshiro12/) | **YouTube** [<img src="https://img.icons8.com/nolan/240/youtube.png" alt='youtube' height='32'>](https://youtube.com/channel/UCXpD5-zJKfNjB-RGFNq9FPA)  
 
 <a href="https://imgbb.com/"><img src="https://i.ibb.co/GQLrdy9/tumblr-mte3vs3w-Vv1sv5n5mo1-500.gif" alt="tumblr-mte3vs3w-Vv1sv5n5mo1-500" border="0" /></a>
