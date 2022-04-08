@@ -21,6 +21,7 @@
 ### A machine never Stop 🚀
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=Toshiro223&label=Profile%20views&color=0e75b6&style=flat" alt="Toshiro223"> </p>
+
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=Toshiro223" alt="Toshiro223" /></a> </p>
 <a href="https://imgbb.com/"><img src="https://i.ibb.co/ryxjvsN/tumblr-mayscv1i7-P1r7ycn6o1-500.gif" alt="tumblr-mayscv1i7-P1r7ycn6o1-500" border="0" /></a>
 <img src = "https://github-readme-stats.vercel.app/api?username=Toshiro223&show_icons=true&theme=radical&line_height=40&count_private=true&cache_seconds=1800&title_color=red&include_all_commits=true">
