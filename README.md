@@ -18,8 +18,6 @@
 
 <img align="right" alt="count" src="https://count.getloli.com/get/@:Toshiro223?theme=rule34">
 
-### A machine never Stop 🚀
-
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=Toshiro223&label=Profile%20views&color=0e75b6&style=flat" alt="Toshiro223"> </p>
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=Toshiro223" alt="Toshiro223" /></a> </p>
