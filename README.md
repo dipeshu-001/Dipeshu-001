@@ -17,7 +17,7 @@
 
 </div>
 
-[![spotify-github-profile](https://spotify-github-profile.vercel.app/api/view?uid=317z34b4scpfsryredn53jzuow44?_image=true&theme=default)](https://github.com/Toshiro223/Nezuko)
+[![spotify-github-profile](https://spotify-github-profile.vercel.app/api/view?uid=317z34b4scpfsryredn53jzuow44_image=true&theme=default)](https://github.com/Toshiro223/Nezuko)
 
 
 <img align="right" alt="count" src="https://count.getloli.com/get/@:Toshiro223?theme=rule34">
