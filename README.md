@@ -15,6 +15,11 @@
 
 - 🎗️ I’m currently learning **Javascript, Node js**
 
+</div>
+
+[![spotify-github-profile](https://spotify-github-profile.vercel.app/api/view?uid=0bayzsrvnvivnrnxg4te2b1vb&cover_image=true&theme=default)](https://github.com/Toshiro223/Nezuko)
+
+
 <img align="right" alt="count" src="https://count.getloli.com/get/@:Toshiro223?theme=rule34">
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=Toshiro223&label=Profile%20views&color=0e75b6&style=flat" alt="Toshiro223"> </p>
@@ -34,6 +39,3 @@
 
 ## Have A Great and wonderful day see ya 💫✌🏻
 
-</div>
-
-[![spotify-github-profile](https://spotify-github-profile.vercel.app/api/view?uid=0bayzsrvnvivnrnxg4te2b1vb&cover_image=true&theme=default)](https://github.com/Toshiro223/Nezuko)
