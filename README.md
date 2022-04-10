@@ -10,7 +10,7 @@
 - 🎂 Age- **18**
 
 - 🚀 My hobbys are **reading mangas, Watching animes, drawing, web surfing(surface and dark), know about open source projects**
-
+![spotify-github-profile](/img/default.svg)
 
 - 〽️ I’m currently working on Whatsapp bots😂
 
