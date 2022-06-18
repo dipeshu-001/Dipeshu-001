@@ -7,14 +7,14 @@
 
 - 💠 Name- **Toshiro Hitsugaya**
 
-- 🎂 Age- ```18```
-- 📚 Study- ```Preparing for BCA and I'm a BCA student```
+- 🎂 Age- 18
+- 📚 Study- ```BCA student```
 
-- 🚀 My hobbys are ```reading mangas, Watching animes, drawing, web surfing(surface and dark), know about open source projects```
+- 🚀 My hobbys are reading mangas, Watching animes, drawing, web surfing(surface and dark), know about open source projects
 
-- 〽️ I’m ```currently working on Whatsapp bots😂```
+- 〽️ I’m currently working on Whatsapp bots😂
 
-- 🎗️ I’m ```currently learning **Javascript, Typescript```
+- 🎗️ I’m currently learning **Javascript, Typescript
 
 </div>
 
