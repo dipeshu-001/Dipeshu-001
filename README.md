@@ -25,6 +25,8 @@
 
 
 
+</p>
+<a href="https://github.com/Toshiro223/github-readme-activity-graph"><img alt="Toshiro223 Activity Graph" src="https://activity-graph.herokuapp.com/graph?username=Toshiro223&bg_color=0D1117&color=5BCDEC&line=5BCDEC&point=FFFFFF&hide_border=true" /></a>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=Toshiro223&label=Profile%20views&color=0e75b6&style=flat" alt="Toshiro223"> </p>
 
