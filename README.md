@@ -26,18 +26,18 @@
 
 
 </p>
-<a href="https://github.com/Toshiro223/github-readme-activity-graph"><img alt="Toshiro223 Activity Graph" src="https://activity-graph.herokuapp.com/graph?username=Toshiro223&bg_color=0D1117&color=5BCDEC&line=5BCDEC&point=FFFFFF&hide_border=true" /></a>
+<a href="https://github.com/Toshiro-sama/github-readme-activity-graph"><img alt="Toshiro-sama Activity Graph" src="https://activity-graph.herokuapp.com/graph?username=Toshiro-sama&bg_color=0D1117&color=5BCDEC&line=5BCDEC&point=FFFFFF&hide_border=true" /></a>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=Toshiro223&label=Profile%20views&color=0e75b6&style=flat" alt="Toshiro223"> </p>
 
-<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=Toshiro223" alt="Toshiro223" /></a> </p>
+<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=Toshiro-sama" alt="Toshiro-sama" /></a> </p>
 <a href="https://imgbb.com/"><img src="https://i.ibb.co/ryxjvsN/tumblr-mayscv1i7-P1r7ycn6o1-500.gif" alt="tumblr-mayscv1i7-P1r7ycn6o1-500" border="0" /></a>
 <img src = "https://github-readme-stats.vercel.app/api?username=Toshiro223&show_icons=true&theme=radical&line_height=40&count_private=true&cache_seconds=1800&title_color=red&include_all_commits=true">
 
 [![GitHub Streak](https://github-readme-streak-stats.herokuapp.com?user=Toshiro223&theme=blueberry&hide_border=true&date_format=M%20j%5B%2C%20Y%5D)](https://git.io/streak-stats)
 
 ## Follow me on (❤️ω❤️)
-**Github** [<img src="https://img.icons8.com/nolan/240/github.png" alt='github' height='32'>](https://github.com/Toshiro223) | **Instagram** [<img src="https://img.icons8.com/nolan/240/instagram-new.png" alt='instagram' height='32'>](https://www.instagram.com/itz_toshiro12/) | **YouTube** [<img src="https://img.icons8.com/nolan/240/youtube.png" alt='YouTube' height='32'>](https://youtube.com/channel/UCXpD5-zJKfNjB-RGFNq9FPA)  
+**Github** [<img src="https://img.icons8.com/nolan/240/github.png" alt='github' height='32'>](https://github.com/Toshiro-sama) | **Instagram** [<img src="https://img.icons8.com/nolan/240/instagram-new.png" alt='instagram' height='32'>](https://www.instagram.com/itz_toshiro12/) | **YouTube** [<img src="https://img.icons8.com/nolan/240/youtube.png" alt='YouTube' height='32'>](https://youtube.com/channel/UCXpD5-zJKfNjB-RGFNq9FPA)  
 
 <a href="https://imgbb.com/"><img src="https://i.ibb.co/GQLrdy9/tumblr-mte3vs3w-Vv1sv5n5mo1-500.gif" alt="tumblr-mte3vs3w-Vv1sv5n5mo1-500" border="0" /></a>
 <h3 align="left">Languages and Tools:</h3>
