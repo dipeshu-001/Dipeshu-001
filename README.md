@@ -32,9 +32,9 @@
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=Toshiro-sama" alt="Toshiro-sama" /></a> </p>
 <a href="https://imgbb.com/"><img src="https://i.ibb.co/ryxjvsN/tumblr-mayscv1i7-P1r7ycn6o1-500.gif" alt="tumblr-mayscv1i7-P1r7ycn6o1-500" border="0" /></a>
-<img src = "https://github-readme-stats.vercel.app/api?username=Toshiro223&show_icons=true&theme=radical&line_height=40&count_private=true&cache_seconds=1800&title_color=red&include_all_commits=true">
+<img src = "https://github-readme-stats.vercel.app/api?username=Toshiro-sama&show_icons=true&theme=radical&line_height=40&count_private=true&cache_seconds=1800&title_color=red&include_all_commits=true">
 
-[![GitHub Streak](https://github-readme-streak-stats.herokuapp.com?user=Toshiro223&theme=blueberry&hide_border=true&date_format=M%20j%5B%2C%20Y%5D)](https://git.io/streak-stats)
+[![GitHub Streak](https://github-readme-streak-stats.herokuapp.com?user=Toshiro-sama&theme=blueberry&hide_border=true&date_format=M%20j%5B%2C%20Y%5D)](https://git.io/streak-stats)
 
 ## Follow me on (❤️ω❤️)
 **Github** [<img src="https://img.icons8.com/nolan/240/github.png" alt='github' height='32'>](https://github.com/Toshiro-sama) | **Instagram** [<img src="https://img.icons8.com/nolan/240/instagram-new.png" alt='instagram' height='32'>](https://www.instagram.com/itz_toshiro12/) | **YouTube** [<img src="https://img.icons8.com/nolan/240/youtube.png" alt='YouTube' height='32'>](https://youtube.com/channel/UCXpD5-zJKfNjB-RGFNq9FPA)  
