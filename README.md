@@ -32,7 +32,7 @@
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=Toshi-san" alt="Toshi-san" /></a> </p>
 <a href="https://imgbb.com/"><img src="https://i.ibb.co/ryxjvsN/tumblr-mayscv1i7-P1r7ycn6o1-500.gif" alt="tumblr-mayscv1i7-P1r7ycn6o1-500" border="0" /></a>
-<img src = "https://github-readme-stats.vercel.app/api?username=Toshiro-sama&show_icons=true&theme=radical&line_height=40&count_private=true&cache_seconds=1800&title_color=red&include_all_commits=true">
+<img src = "https://github-readme-stats.vercel.app/api?username=Toshi-san&show_icons=true&theme=radical&line_height=40&count_private=true&cache_seconds=1800&title_color=red&include_all_commits=true">
 
 [![GitHub Streak](https://github-readme-streak-stats.herokuapp.com?user=Toshi-san&theme=blueberry&hide_border=true&date_format=M%20j%5B%2C%20Y%5D)](https://git.io/streak-stats)
 
