@@ -5,8 +5,8 @@
 <h1 align="center">ʜɪ 👋, ɪ'ᴍ Toshi. ᴜsᴇʀɴᴀᴍᴇ- Toshiro_sama</h1>
 <h3 align="center">I am a noob coder. Learning javascript and Node js👀.</h3>
 <a href="https://api.daily.dev/get?r=Toshiro-sama"><img src="https://opencollective.com/vuejs/contributors.svg?width=900" /></a>
-<a href = "https://github.com/Toshiro223"><img src = "https://cardivo.vercel.app/api?name=TOSHIRO&description=A%20IS%20NOOB%20CODER%20ALWAYS%20IN%20SEARCH%20OF%20NEW%20THINGS&image=https://wallpaperaccess.com/full/4370278.jpg&backgroundColor=%23ecf0f1&github=Toshiro223&pattern=topography&colorPattern=%23eaeaea"/><a>
-<br><p align='center'><img src="https://komarev.com/ghpvc/?username=Toshiro223&label=Total%20Profile%20Visitor&color=071A2C&style=for-the-badge" alt="Toshiro223" />
+<a href = "https://github.com/Toshi-san"><img src = "https://cardivo.vercel.app/api?name=TOSHI_さん&description=A%20IS%20NOOB%20CODER%20ALWAYS%20IN%20SEARCH%20OF%20NEW%20THINGS&image=https://wallpaperaccess.com/full/4370278.jpg&backgroundColor=%23ecf0f1&github=Toshiro223&pattern=topography&colorPattern=%23eaeaea"/><a>
+<br><p align='center'><img src="https://komarev.com/ghpvc/?username=Toshi-san&label=Total%20Profile%20Visitor&color=071A2C&style=for-the-badge" alt="Toshi-san" />
 
 
 - 💠 Name- **Toshi_さん**
