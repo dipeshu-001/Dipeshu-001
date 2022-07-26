@@ -2,6 +2,7 @@
 
 
 <a href="https://imgbb.com/"><img src="https://i.ibb.co/Pzw1kpT/giphy.gif" alt="giphy" border="0" /></a>
+
 <h1 align="center">ʜɪ 👋, ɪ'ᴍ Toshi. ᴜsᴇʀɴᴀᴍᴇ- Toshiro_sama</h1>
 <h3 align="center">I am a noob coder. Learning javascript and Node js👀.</h3>
 <a href="https://api.daily.dev/get?r=Toshiro-sama"><img src="https://opencollective.com/vuejs/contributors.svg?width=900" /></a>
