@@ -27,15 +27,15 @@
 
 
 </p>
-<a href="https://github.com/Toshi-san/github-readme-activity-graph"><img alt="Toshi-san Activity Graph" src="https://activity-graph.herokuapp.com/graph?username=Toshi-san&bg_color=0D1117&color=5BCDEC&line=5BCDEC&point=FFFFFF&hide_border=true" /></a>
+<a href="https://github.com/Toshi-san001/github-readme-activity-graph"><img alt="Toshi-san001 Activity Graph" src="https://activity-graph.herokuapp.com/graph?username=Toshi-san001&bg_color=0D1117&color=5BCDEC&line=5BCDEC&point=FFFFFF&hide_border=true" /></a>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=Toshi-san&label=Profile%20views&color=0e75b6&style=flat" alt="Toshi-san"> </p>
 
-<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=Toshi-san" alt="Toshi-san" /></a> </p>
+<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=Toshi-san001" alt="Toshi-san001" /></a> </p>
 
-<img src = "https://github-readme-stats.vercel.app/api?username=Toshi-san&show_icons=true&theme=radical&line_height=40&count_private=true&cache_seconds=1800&title_color=red&include_all_commits=true">
+<img src = "https://github-readme-stats.vercel.app/api?username=Toshi-san001&show_icons=true&theme=radical&line_height=40&count_private=true&cache_seconds=1800&title_color=red&include_all_commits=true">
 
-[![GitHub Streak](https://github-readme-streak-stats.herokuapp.com?user=Toshi-san&theme=blueberry&hide_border=true&date_format=M%20j%5B%2C%20Y%5D)](https://git.io/streak-stats)
+[![GitHub Streak](https://github-readme-streak-stats.herokuapp.com?user=Toshi-san001&theme=blueberry&hide_border=true&date_format=M%20j%5B%2C%20Y%5D)](https://git.io/streak-stats)
 
 ## Follow me on (❤️ω❤️)
 **Github** [<img src="https://img.icons8.com/nolan/240/github.png" alt='github' height='32'>](https://github.com/Toshi-san) | **Instagram** [<img src="https://img.icons8.com/nolan/240/instagram-new.png" alt='instagram' height='32'>](https://www.instagram.com/itz_toshiro12/) | **YouTube** [<img src="https://img.icons8.com/nolan/240/youtube.png" alt='YouTube' height='32'>](https://youtube.com/channel/UCXpD5-zJKfNjB-RGFNq9FPA)  
