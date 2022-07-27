@@ -1,7 +1,7 @@
 ### 😒𝐀 𝐍𝐨𝐨𝐛 𝐂𝐨𝐝𝐞𝐫 𝐀𝐥𝐰𝐚𝐲𝐬 𝐈𝐧 𝐒𝐞𝐚𝐫𝐜𝐡 𝐎𝐟 𝐍𝐞𝐰 𝐓𝐡𝐢𝐧𝐠𝐬 B𝐚𝐬𝐢𝐜𝐚𝐥𝐥𝐲 𝐖𝐞𝐞𝐛🚀
 
 
-<a href="https://imgbb.com/"><img src="https://i.ibb.co/Pzw1kpT/giphy.gif" alt="giphy" border="0" /></a>
+<a href="https://imgbb.com/"><img src="https://i.ibb.co/yknDmpR/giphy.gif" alt="giphy" border="0" /></a>
 
 <h1 align="center">ʜɪ 👋, ɪ'ᴍ Toshi. ᴜsᴇʀɴᴀᴍᴇ- Toshiro_sama</h1>
 <h3 align="center">I am a noob coder. Learning javascript and Node js👀.</h3>
