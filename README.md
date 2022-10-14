@@ -10,6 +10,19 @@
 <br><p align='center'><img src="https://komarev.com/ghpvc/?username=Toshi-san&label=Total%20Profile%20Visitor&color=071A2C&style=for-the-badge" alt="Toshi-san" />
 
 
+const Toshi-X0 = {
+    Original name : "Deepesh",
+     Instagram : itz_toshi_02,
+    Gender : Male,
+    Relationship status :Single,
+     Mobile OS: Android 11 ,
+       Computer OS: Ubuntu 20.04
+   Coding Software: {
+       Mobile: Dcoder,
+       Computer: VS Code
+    },
+}; //by,Toshi-sama
+
 - 💠 Name- **Toshi_さん**
 - 🎂 Age- 18
 - 📚 Study- ```Im A BCA student```
