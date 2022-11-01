@@ -1,27 +1,13 @@
-### 😒𝐀 𝐍𝐨𝐨𝐛 𝐂𝐨𝐝𝐞𝐫 𝐀𝐥𝐰𝐚𝐲𝐬 𝐈𝐧 𝐒𝐞𝐚𝐫𝐜𝐡 𝐎𝐟 𝐍𝐞𝐰 𝐓𝐡𝐢𝐧𝐠𝐬 B𝐚𝐬𝐢𝐜𝐚𝐥𝐥𝐲 𝐖𝐞𝐞𝐛🚀
+### I have not failed. I’ve just found 10,000 ways that won’t work :)
 
 
 <a href="https://imgbb.com/"><img src="https://i.ibb.co/yknDmpR/giphy.gif" alt="giphy" border="0" /></a>
 
-<h1 align="center">ʜɪ 👋, ɪ'ᴍ Toshi. ᴜsᴇʀɴᴀᴍᴇ- Toshiro_sama</h1>
+<h1 align="center">ʜɪ 👋, ɪ'ᴍ Toshi. ᴜsᴇʀɴᴀᴍᴇ- Toshi_san001</h1>
 <h3 align="center">I am a noob coder. Learning javascript and Node js👀.</h3>
-<a href="https://api.daily.dev/get?r=Toshiro-sama"><img src="https://opencollective.com/vuejs/contributors.svg?width=900" /></a>
-<a href = "https://github.com/Toshi-san"><img src = "https://cardivo.vercel.app/api?name=TOSHI_さん&description=A%20IS%20NOOB%20CODER%20ALWAYS%20IN%20SEARCH%20OF%20NEW%20THINGS&image=https://wallpaperaccess.com/full/4370278.jpg&backgroundColor=%23ecf0f1&github=Toshi_さん&pattern=topography&colorPattern=%23eaeaea"/><a>
+<a href="https://api.daily.dev/get?r=Toshi-san001"><img src="https://opencollective.com/vuejs/contributors.svg?width=900" /></a>
+<a href = "https://github.com/Toshi-san001"><img src = "https://cardivo.vercel.app/api?name=TOSHI_さん&description=A%20IS%20NOOB%20CODER%20ALWAYS%20IN%20SEARCH%20OF%20NEW%20THINGS&image=https://wallpaperaccess.com/full/4370278.jpg&backgroundColor=%23ecf0f1&github=Toshi_さん&pattern=topography&colorPattern=%23eaeaea"/><a>
 <br><p align='center'><img src="https://komarev.com/ghpvc/?username=Toshi-san&label=Total%20Profile%20Visitor&color=071A2C&style=for-the-badge" alt="Toshi-san" />
-
-
-const Toshi-X0 = {
-    Original name : "Deepesh",
-     Instagram : itz_toshi_02,
-    Gender : Male,
-    Relationship status :Single,
-     Mobile OS: Android 11 ,
-       Computer OS: Ubuntu 20.04
-   Coding Software: {
-       Mobile: Dcoder,
-       Computer: VS Code
-    },
-}; //by,Toshi-sama
 
 - 💠 Name- **Toshi_さん**
 - 🎂 Age- 18
