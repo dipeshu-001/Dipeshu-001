@@ -9,8 +9,8 @@
 <a href = "https://github.com/Toshi-san001"><img src = "https://cardivo.vercel.app/api?name=TOSHI_さん&description=A%20IS%20NOOB%20CODER%20ALWAYS%20IN%20SEARCH%20OF%20NEW%20THINGS&image=https://wallpaperaccess.com/full/4370278.jpg&backgroundColor=%23ecf0f1&github=Toshi_さん&pattern=topography&colorPattern=%23eaeaea"/><a>
 <br><p align='center'><img src="https://komarev.com/ghpvc/?username=Toshi-san&label=Total%20Profile%20Visitor&color=071A2C&style=for-the-badge" alt="Toshi-san" />
 
-- 💠 Name- **Toshi_さん**
-- 🎂 Age- 18
+- 🖇️ Name- **Toshi_さん**
+- 🎂 Age- 19
 - 📚 Study- ```Im A BCA student```
 
 - 🚀 My hobbys are reading mangas, Watching animes, drawing, web surfing(surface and dark), know about open source projects
