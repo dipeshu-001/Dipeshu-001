@@ -28,11 +28,11 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=Dipeshu-001&label=Profile%20views&color=0e75b6&style=flat" alt="Dipeshu"> </p>
 
-<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=Toshi-san001" alt="Dipeshu-001" /></a> </p>
+<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=Dipeshu-001" alt="Dipeshu-001" /></a> </p>
 
-<img src = "https://github-readme-stats.vercel.app/api?username=Toshi-san001&show_icons=true&theme=radical&line_height=40&count_private=true&cache_seconds=1800&title_color=red&include_all_commits=true">
+<img src = "https://github-readme-stats.vercel.app/api?username=Dipeshu-001&show_icons=true&theme=radical&line_height=40&count_private=true&cache_seconds=1800&title_color=red&include_all_commits=true">
 
-[![GitHub Streak](https://github-readme-streak-stats.herokuapp.com?user=Toshi-san001&theme=blueberry&hide_border=true&date_format=M%20j%5B%2C%20Y%5D)](https://git.io/streak-stats)
+[![GitHub Streak](https://github-readme-streak-stats.herokuapp.com?user=Dipeshu-001&theme=blueberry&hide_border=true&date_format=M%20j%5B%2C%20Y%5D)](https://git.io/streak-stats)
 
 ## Follow me on (❤️ω❤️)
 **Github** [<img src="https://img.icons8.com/nolan/240/github.png" alt='github' height='32'>](https://github.com/Dipeshu-001) | **Instagram** [<img src="https://img.icons8.com/nolan/240/instagram-new.png" alt='instagram' height='32'>](https://www.instagram.com/whynotdipu/) | **YouTube** [<img src="https://img.icons8.com/nolan/240/youtube.png" alt='YouTube' height='32'>](https://youtube.com/channel/UCXpD5-zJKfNjB-RGFNq9FPA)  
