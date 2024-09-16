@@ -11,7 +11,7 @@
 
 - 🖇️ Name- **Dipesh_さん**
 - 🎂 Age- 20
-- 📚 Study- ```Im an JEE asprent```
+- 📚 Study- ```Im an JEE aspirant```
 
 - 🚀 My hobbys are reading mangas, Watching animes, drawing, web surfing(surface and dark), know about open source projects.
 
@@ -19,12 +19,8 @@
 
 </div>
 
-[![spotify-github-profile](https://spotify-github-profile.vercel.app/api/view?uid=0bayzsrvnvivnrnxg4te2b1vb&cover_image=true&theme=default)](https://github.com/Dipeshu-001)
-
-
-
 </p>
-<a href="https://github.com/Dipeshu-001/github-readme-activity-graph"><img alt="Toshi-san001 Activity Graph" src="https://activity-graph.herokuapp.com/graph?username=Dipeshu-001&bg_color=0D1117&color=5BCDEC&line=5BCDEC&point=FFFFFF&hide_border=true" /></a>
+<a href="https://github.com/Dipeshu-001/github-readme-activity-graph"><img alt="Dipeshu-001 Activity Graph" src="https://activity-graph.herokuapp.com/graph?username=Dipeshu-001&bg_color=0D1117&color=5BCDEC&line=5BCDEC&point=FFFFFF&hide_border=true" /></a>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=Dipeshu-001&label=Profile%20views&color=0e75b6&style=flat" alt="Dipeshu"> </p>
 
